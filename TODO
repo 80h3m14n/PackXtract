@@ -1,0 +1,1 @@
+- Make the file self-contained by Including a python interpreter & code on the packed binary (if .py)
